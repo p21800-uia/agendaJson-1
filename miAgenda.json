@@ -1,0 +1,72 @@
+{
+  "type": "agenda",
+  "id": 0,
+  "name": "",
+  "fecha": "",
+  "items": [
+    {
+      "type": "contacto",
+      "id": 1,
+      "name": "alfoso",
+      "fecha": "11-11-2022",
+      "items": [
+        {
+          "type": "evento",
+          "id": 0,
+          "name": "",
+          "fecha": "",
+          "items": [],
+          "email": "",
+          "telefono": "",
+          "nombre": "cita",
+          "fechaRecordatorio": "15-12-2022"
+        },
+        {
+          "type": "evento",
+          "id": 0,
+          "name": "",
+          "fecha": "",
+          "items": [],
+          "email": "",
+          "telefono": "",
+          "nombre": "congreso",
+          "fechaRecordatorio": "16-12-2022"
+        }
+      ],
+      "email": "alfonso@gmail.com",
+      "telefono": "555555555"
+    },
+    {
+      "type": "contacto",
+      "id": 1,
+      "name": "alberto",
+      "fecha": "12-12-2022",
+      "items": [
+        {
+          "type": "evento",
+          "id": 0,
+          "name": "",
+          "fecha": "",
+          "items": [],
+          "email": "",
+          "telefono": "",
+          "nombre": "simposium",
+          "fechaRecordatorio": "05-01-2023"
+        },
+        {
+          "type": "evento",
+          "id": 0,
+          "name": "",
+          "fecha": "",
+          "items": [],
+          "email": "",
+          "telefono": "",
+          "nombre": "partida de rosca",
+          "fechaRecordatorio": "06-01-2023"
+        }
+      ],
+      "email": "alberto@gmail.com",
+      "telefono": "66666666"
+    }
+  ]
+}
